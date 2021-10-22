@@ -1,0 +1,44 @@
+body{
+  background-image :url("F.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+hr {
+  width: 15%;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: thick;
+}
+
+h1{
+  color: white;
+}
+
+h3{
+  color: white;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+input{
+  line-height: 15px;
+  border-radius: 3px;
+}
+
+textarea{
+  border-radius: 10px;
+}
+
+.nom{
+  font-family: cursive;
+  font-size: 50px;
+
+}
+
+td{
+  font-family: sans-serif;
+}
+li{
+  font-family: sans-serif;
+}
